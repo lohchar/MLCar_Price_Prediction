@@ -1,5 +1,5 @@
 # Car Price Prediction Project
-##### Dataset Link -https://www.kaggle.com/datasets/hellbuoy/car-price-prediction
+
 ## Overview
 This repository contains a complete project on predicting car prices. The project follows a structured approach, including data cleaning, exploratory data analysis (EDA), and machine learning model training. The goal is to build and evaluate various regression models to accurately predict the selling price of cars based on their features.
 ## 1. Data Cleaning & Preprocessing
